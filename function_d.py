@@ -8,6 +8,8 @@ def max_value(numbers):
 
 # this is here for testing
 
+# let's add another line
 
+# how about this?
 if __name__ == "__main__":
     print(max_value([1, 12, 2, 42, 8, 3]))
