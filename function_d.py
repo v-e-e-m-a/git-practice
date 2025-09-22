@@ -10,8 +10,8 @@ def max_value(numbers):
 
 # let's add another line
 
-# how about this?
-
+# this is Steph's line
+# this is also Steph's line
 
 if __name__ == "__main__":
     print(max_value([1, 12, 2, 42, 8, 3]))
