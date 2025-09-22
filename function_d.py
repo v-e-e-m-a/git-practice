@@ -10,7 +10,7 @@ def max_value(numbers):
 
 # let's add another line
 
-# how about this?
+# changing this line to something else
 
 
 if __name__ == "__main__":
