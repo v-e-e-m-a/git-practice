@@ -1,12 +1,11 @@
 def max_value(numbers):
-    """ This function returns the largest number
-        in the list.
-    """
-    max_num = numbers[0]
-    for num in numbers:
-        if num > max_num:
-            max_num = num
-    return max_num
+    maximum = 0
+    for number in numbers:
+        if number > maximum:
+            maximum = number
+    
+    return maximum
+
 
 if __name__ == "__main__":
     print(max_value([1, 12, 2, 42, 8, 3]))
